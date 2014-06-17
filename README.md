@@ -2,7 +2,7 @@ fftPowerSpectrum
 ================
 
 このプロジェクトは、openFrameworksのprojectGeneratorを使って作成したものです。  
-なので、ビルドするときはapps以下に置いてください。
+なので、ビルドするときはapps\myApps(階層が同じであればOK)以下に置いてください。
 
 
 - 動作環境  
